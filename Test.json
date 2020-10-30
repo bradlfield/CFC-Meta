@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation" : "LSU",
-          "prestige" : "95",
+          "prestige" : "92",
           "hexColor" : "#850AE3",
           "rival" : "ARK",
           "headCoach" : {
@@ -96,7 +96,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "87",
+          "prestige" : "90",
           "hexColor" : "#B71A20",
           "rival" : "UF",
           "headCoach" : {
@@ -161,7 +161,7 @@
             "contractYear" : "0"
           },
           "name" : "Vanderbilt",
-          "state" : "Kentucky"
+          "state" : "Tennessee"
         },
         {
           "abbreviation" : "MISS",
@@ -188,7 +188,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "73",
+          "prestige" : "78",
           "hexColor" : "#D4650F",
           "rival" : "VAND",
           "headCoach" : {
@@ -211,7 +211,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "50",
+          "prestige" : "60",
           "hexColor" : "#A41A2D",
           "rival" : "LSU",
           "headCoach" : {
@@ -226,7 +226,7 @@
             "ratTalent" : "62",
             "baselinePrestige" : "64",
             "ratOvr" : "65",
-            "name" : "Chad Morris",
+            "name" : "Sam Pittman",
             "contractYear" : "2"
           },
           "name" : "Arkansas",
@@ -264,7 +264,7 @@
         },
         {
           "abbreviation" : "OSU",
-          "prestige" : "90",
+          "prestige" : "93",
           "hexColor" : "#AF0A25",
           "rival" : "PSU",
           "headCoach" : {
@@ -310,7 +310,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "85",
+          "prestige" : "83",
           "hexColor" : "#FFCD00",
           "rival" : "NEB",
           "headCoach" : {
@@ -425,7 +425,7 @@
         },
         {
           "abbreviation" : "NEB",
-          "prestige" : "62",
+          "prestige" : "70",
           "hexColor" : "#DA1628",
           "rival" : "IOWA",
           "headCoach" : {
@@ -448,7 +448,7 @@
         },
         {
           "abbreviation" : "MINN",
-          "prestige" : "60",
+          "prestige" : "75",
           "hexColor" : "#6B1C1F",
           "rival" : "WIS",
           "headCoach" : {
@@ -501,7 +501,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "73",
+          "prestige" : "75",
           "hexColor" : "#6911B7",
           "rival" : "BAYL",
           "headCoach" : {
@@ -524,7 +524,7 @@
         },
         {
           "abbreviation" : "WVU",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#0000A3",
           "rival" : "OKST",
           "headCoach" : {
@@ -593,7 +593,7 @@
         },
         {
           "abbreviation" : "OKSU",
-          "prestige" : "73",
+          "prestige" : "75",
           "hexColor" : "#FF550C",
           "rival" : "WVU",
           "headCoach" : {
@@ -662,7 +662,7 @@
         },
         {
           "abbreviation" : "KSU",
-          "prestige" : "66",
+          "prestige" : "70",
           "hexColor" : "#9F13FF",
           "rival" : "KS",
           "headCoach" : {
@@ -738,7 +738,7 @@
         },
         {
           "abbreviation" : "CLEM",
-          "prestige" : "91",
+          "prestige" : "95",
           "hexColor" : "#FD5600",
           "rival" : "NCST",
           "headCoach" : {
@@ -945,7 +945,7 @@
         }
       ],
       "confFullName" : "Atlantic Coastal Conference",
-      "confPrestige" : "95",
+      "confPrestige" : "90",
       "confName" : "ACC"
     },
     {
@@ -1350,7 +1350,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#202EFF",
           "rival" : "CIN",
           "headCoach" : {
@@ -1373,7 +1373,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "62",
+          "prestige" : "68",
           "hexColor" : "#EE241E",
           "rival" : "HOU",
           "headCoach" : {
@@ -1396,7 +1396,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "44",
+          "prestige" : "50",
           "hexColor" : "#000466",
           "rival" : "TEM",
           "headCoach" : {
@@ -1663,7 +1663,7 @@
       "confTeams" : [
         {
           "abbreviation" : "USA",
-          "prestige" : "57",
+          "prestige" : "60",
           "hexColor" : "#070CD0",
           "rival" : "TROY",
           "headCoach" : {
@@ -1709,7 +1709,7 @@
         },
         {
           "abbreviation" : "GS",
-          "prestige" : "52",
+          "prestige" : "69",
           "hexColor" : "#0A1CA0",
           "rival" : "APP",
           "headCoach" : {
@@ -1778,7 +1778,7 @@
         },
         {
           "abbreviation" : "ULL",
-          "prestige" : "44",
+          "prestige" : "70",
           "hexColor" : "#E91C2E",
           "rival" : "AKSU",
           "headCoach" : {
@@ -1793,7 +1793,7 @@
             "ratTalent" : "59",
             "baselinePrestige" : "46",
             "ratOvr" : "64",
-            "name" : "Ernie Biesecker",
+            "name" : "Billy Napier",
             "contractYear" : "2"
           },
           "name" : "Louisiana Lafayette",
@@ -1801,7 +1801,7 @@
         },
         {
           "abbreviation" : "TROY",
-          "prestige" : "44",
+          "prestige" : "64",
           "hexColor" : "#A01111",
           "rival" : "USA",
           "headCoach" : {
@@ -1824,7 +1824,7 @@
         },
         {
           "abbreviation" : "APP",
-          "prestige" : "47",
+          "prestige" : "70",
           "hexColor" : "#000024",
           "rival" : "GS",
           "headCoach" : {
@@ -1923,7 +1923,7 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "46",
+          "prestige" : "66",
           "hexColor" : "#E4BC31",
           "rival" : "FIU",
           "headCoach" : {
@@ -2061,7 +2061,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "50",
+          "prestige" : "60",
           "hexColor" : "#EF2D19",
           "rival" : "LAT",
           "headCoach" : {
