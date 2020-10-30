@@ -2610,10 +2610,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "ELO",
-          "prestige" : "31",
-          "hexColor" : "#646464",
-          "rival" : "VILA",
+          "abbreviation" : "ILL",
+          "prestige" : "65",
+          "hexColor" : "#E84A27",
+          "rival" : "IND",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2626,17 +2626,17 @@
             "ratTalent" : "80",
             "baselinePrestige" : "25",
             "ratOvr" : "63",
-            "name" : "Paul Goldfuss",
+            "name" : "Lovie Smith",
             "contractYear" : "2"
           },
-          "name" : "Elon",
-          "state" : "North Carolina"
+          "name" : "Illinois",
+          "state" : "Illinois"
         },
         {
-          "abbreviation" : "JAME",
-          "prestige" : "27",
-          "hexColor" : "#FFFFCC",
-          "rival" : "WILL",
+          "abbreviation" : "IND",
+          "prestige" : "60",
+          "hexColor" : "#990000",
+          "rival" : "ILL",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2649,17 +2649,17 @@
             "ratTalent" : "47",
             "baselinePrestige" : "25",
             "ratOvr" : "54",
-            "name" : "Leonard Calica",
+            "name" : "Tom Allen",
             "contractYear" : "2"
           },
-          "name" : "James Madison",
-          "state" : "Virginia"
+          "name" : "Indiana",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "MAI",
-          "prestige" : "27",
-          "hexColor" : "#CB992B",
-          "rival" : "STON",
+          "abbreviation" : "MARY",
+          "prestige" : "67",
+          "hexColor" : "#E03A3E",
+          "rival" : "RUTG",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2672,16 +2672,16 @@
             "ratTalent" : "56",
             "baselinePrestige" : "25",
             "ratOvr" : "66",
-            "name" : "Matt Alexander",
+            "name" : "Mike Locksley",
             "contractYear" : "2"
           },
-          "name" : "Maine",
-          "state" : "Maine"
+          "name" : "Maryland",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "RHO",
-          "prestige" : "29",
-          "hexColor" : "#005DAA",
+          "abbreviation" : "RUTG",
+          "prestige" : "60",
+          "hexColor" : "#CC0033",
           "rival" : "HAMP",
           "headCoach" : {
             "contractLength" : "7",
@@ -2695,11 +2695,11 @@
             "ratTalent" : "71",
             "baselinePrestige" : "25",
             "ratOvr" : "67",
-            "name" : "Donte Puna",
+            "name" : "Greg Schiano",
             "contractYear" : "2"
           },
-          "name" : "Rhode Island",
-          "state" : "Rhode Island"
+          "name" : "Rutgers",
+          "state" : "Nre Jersey"
         },
         {
           "abbreviation" : "WILL",
