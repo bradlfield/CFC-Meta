@@ -2373,10 +2373,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "WIU",
-          "prestige" : "36",
-          "hexColor" : "#EDD5A6",
-          "rival" : "UNI",
+          "abbreviation" : "MIZZ",
+          "prestige" : "75",
+          "hexColor" : "#F1B82D",
+          "rival" : "USCE",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2389,17 +2389,17 @@
             "ratTalent" : "48",
             "baselinePrestige" : "31",
             "ratOvr" : "58",
-            "name" : "Lance Eclarinal",
+            "name" : "Will Muschamp",
             "contractYear" : "2"
           },
-          "name" : "Western Illinois",
-          "state" : "Illinois"
+          "name" : "Missouri",
+          "state" : "Missouri"
         },
         {
-          "abbreviation" : "YSU",
-          "prestige" : "26",
-          "hexColor" : "#1B49A2",
-          "rival" : "INST",
+          "abbreviation" : "USCe",
+          "prestige" : "75",
+          "hexColor" : "#73000A",
+          "rival" : "MIZZ",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2019",
@@ -2412,11 +2412,11 @@
             "ratTalent" : "66",
             "baselinePrestige" : "28",
             "ratOvr" : "66",
-            "name" : "Bo Pelini",
+            "name" : "Will Muschamp",
             "contractYear" : "2"
           },
-          "name" : "Youngstown State",
-          "state" : "Virginia"
+          "name" : "South Carolina",
+          "state" : "South Carolina"
         },
         {
           "abbreviation" : "USD",
