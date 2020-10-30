@@ -2794,10 +2794,10 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "TOW",
-          "prestige" : "27",
-          "hexColor" : "#BFCFD8",
-          "rival" : "DEL",
+          "abbreviation" : "USM",
+          "prestige" : "68",
+          "hexColor" : "#FFAB00",
+          "rival" : "ARMY",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2810,17 +2810,17 @@
             "ratTalent" : "51",
             "baselinePrestige" : "25",
             "ratOvr" : "59",
-            "name" : "Austin Villifana",
+            "name" : "Tim Billings",
             "contractYear" : "2"
           },
-          "name" : "Towson",
-          "state" : "Maryland"
+          "name" : "Southern Miss",
+          "state" : "Mississippi"
         },
         {
-          "abbreviation" : "DEL",
-          "prestige" : "23",
-          "hexColor" : "#F77F00",
-          "rival" : "TOW",
+          "abbreviation" : "ARMY",
+          "prestige" : "70",
+          "hexColor" : "#D4BF91",
+          "rival" : "USM",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2833,16 +2833,16 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratOvr" : "54",
-            "name" : "Donovan Devenuto",
+            "name" : "Jeff Monken",
             "contractYear" : "2"
           },
-          "name" : "Delware",
-          "state" : "Delaware"
+          "name" : "Army",
+          "state" : "New York"
         }
       ],
-      "confFullName" : "Colonial Athletic FCS",
-      "confPrestige" : "25",
-      "confName" : "CAA"
+      "confFullName" : "Elite 10",
+      "confPrestige" : "75",
+      "confName" : "E10"
     }
   ],
   "bowlGames" : [
