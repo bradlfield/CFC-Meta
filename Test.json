@@ -1395,9 +1395,9 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "CONN",
-          "prestige" : "50",
-          "hexColor" : "#000466",
+          "abbreviation" : "Navy",
+          "prestige" : "70",
+          "hexColor" : "#C5B783",
           "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "5",
@@ -1411,11 +1411,11 @@
             "ratTalent" : "43",
             "baselinePrestige" : "59",
             "ratOvr" : "60",
-            "name" : "Glen Klemens",
+            "name" : " Ken Niumatalolo",
             "contractYear" : "2"
           },
-          "name" : "UConn",
-          "state" : "Connecticut"
+          "name" : "Navy",
+          "state" : "Maryland"
         }
       ],
       "confFullName" : "American Athletic Conference",
@@ -1448,9 +1448,9 @@
           "state" : "California"
         },
         {
-          "abbreviation" : "BYU",
+          "abbreviation" : "NEV",
           "prestige" : "75",
-          "hexColor" : "#0C0083",
+          "hexColor" : "#003366",
           "rival" : "USU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1464,11 +1464,11 @@
             "ratTalent" : "56",
             "baselinePrestige" : "55",
             "ratOvr" : "68",
-            "name" : "Roman Rhodes",
+            "name" : "Jay Norvell",
             "contractYear" : "2"
           },
-          "name" : "Brigham Young",
-          "state" : "Utah"
+          "name" : "Nevada",
+          "state" : "Nevada"
         },
         {
           "abbreviation" : "HI",
