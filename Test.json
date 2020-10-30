@@ -2465,10 +2465,10 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "INST",
-          "prestige" : "32",
-          "hexColor" : "#F78F1E",
-          "rival" : "YSU",
+          "abbreviation" : "DUKE",
+          "prestige" : "65",
+          "hexColor" : "#003087",
+          "rival" : "GT",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2481,17 +2481,17 @@
             "ratTalent" : "46",
             "baselinePrestige" : "30",
             "ratOvr" : "57",
-            "name" : "Brad Rusteberg",
+            "name" : "David Cutcliffe",
             "contractYear" : "2"
           },
-          "name" : "Indiana State",
-          "state" : "Indiana"
+          "name" : "Duke",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "MOST",
-          "prestige" : "27",
-          "hexColor" : "#FFFF66",
-          "rival" : "SIL",
+          "abbreviation" : "GT",
+          "prestige" : "65",
+          "hexColor" : "#B3A369",
+          "rival" : "DUKE",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2504,17 +2504,17 @@
             "ratTalent" : "49",
             "baselinePrestige" : "25",
             "ratOvr" : "55",
-            "name" : "Curtis Caliguire",
+            "name" : "Geoff Collins",
             "contractYear" : "2"
           },
-          "name" : "Missouri State",
-          "state" : "Missouri"
+          "name" : "Georgia Tech",
+          "state" : "Georgia"
         },
         {
-          "abbreviation" : "UNI",
-          "prestige" : "23",
-          "hexColor" : "#EECFA1",
-          "rival" : "WIU",
+          "abbreviation" : "LOUI",
+          "prestige" : "65",
+          "hexColor" : "#AD0000",
+          "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2527,17 +2527,17 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratOvr" : "54",
-            "name" : "Elliott Sedlack",
+            "name" : "Scott Satterfield",
             "contractYear" : "2"
           },
-          "name" : "Northern Iowa",
-          "state" : "Iowa"
+          "name" : "Louisville",
+          "state" : "Kentucky"
         },
         {
-          "abbreviation" : "SIL",
-          "prestige" : "23",
-          "hexColor" : "#007550",
-          "rival" : "MOST",
+          "abbreviation" : "UNC",
+          "prestige" : "73",
+          "hexColor" : "#7BAFD4",
+          "rival" : "LOUI",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2550,17 +2550,17 @@
             "ratTalent" : "56",
             "baselinePrestige" : "25",
             "ratOvr" : "58",
-            "name" : "Mario Torsiello",
+            "name" : "Mack Brown",
             "contractYear" : "2"
           },
-          "name" : "Southern Illinois",
-          "state" : "Illinois"
+          "name" : "North Carolina",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "NDSU",
-          "prestige" : "26",
-          "hexColor" : "#929497",
-          "rival" : "SDSU",
+          "abbreviation" : "WF",
+          "prestige" : "63",
+          "hexColor" : "#9E7E38",
+          "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2573,17 +2573,17 @@
             "ratTalent" : "47",
             "baselinePrestige" : "28",
             "ratOvr" : "52",
-            "name" : "Hootie Santiesteban",
+            "name" : "Dave Clawson",
             "contractYear" : "2"
           },
-          "name" : "North Dakota State",
-          "state" : "North Dakota"
+          "name" : "Wafe Forrest",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "ILST",
-          "prestige" : "23",
-          "hexColor" : "#0067AC",
-          "rival" : "USD",
+          "abbreviation" : "BYU",
+          "prestige" : "70",
+          "hexColor" : "#002E5D",
+          "rival" : "WF",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2596,16 +2596,16 @@
             "ratTalent" : "46",
             "baselinePrestige" : "25",
             "ratOvr" : "52",
-            "name" : "Roy Hedden",
+            "name" : "Kalani Sitake",
             "contractYear" : "2"
           },
-          "name" : "Illinois State",
-          "state" : "Illinois"
+          "name" : "Brigham Young",
+          "state" : "Utah"
         }
       ],
-      "confFullName" : "Missouri Valley FCS",
-      "confPrestige" : "27",
-      "confName" : "MVFC"
+      "confFullName" : "Middle USA",
+      "confPrestige" : "65",
+      "confName" : "MUSA"
     },
     {
       "confTeams" : [
