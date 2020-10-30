@@ -2682,7 +2682,7 @@
           "abbreviation" : "RUTG",
           "prestige" : "60",
           "hexColor" : "#CC0033",
-          "rival" : "HAMP",
+          "rival" : "MARY",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2702,10 +2702,10 @@
           "state" : "Nre Jersey"
         },
         {
-          "abbreviation" : "WILL",
-          "prestige" : "24",
-          "hexColor" : "#E53F40",
-          "rival" : "JAME",
+          "abbreviation" : "ARIZ",
+          "prestige" : "68",
+          "hexColor" : "#CC0033",
+          "rival" : "COLO",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2718,17 +2718,17 @@
             "ratTalent" : "52",
             "baselinePrestige" : "25",
             "ratOvr" : "55",
-            "name" : "Bailey Northcott",
+            "name" : "Kevin Sumlin",
             "contractYear" : "2"
           },
-          "name" : "William & Mary",
-          "state" : "Virginia"
+          "name" : "Arizona",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "HAMP",
-          "prestige" : "23",
-          "hexColor" : "#EEE8B7",
-          "rival" : "RHO",
+          "abbreviation" : "COLO",
+          "prestige" : "68",
+          "hexColor" : "#CFB87C",
+          "rival" : "ARIZ",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2741,17 +2741,17 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratOvr" : "57",
-            "name" : "Kurt Laza",
+            "name" : "Karl Dorrell",
             "contractYear" : "2"
           },
-          "name" : "New Hampshire",
-          "state" : "New Hampshire"
+          "name" : "Colorado",
+          "state" : "Colorado"
         },
         {
-          "abbreviation" : "STON",
-          "prestige" : "23",
-          "hexColor" : "#BF2C37",
-          "rival" : "MAI",
+          "abbreviation" : "UNLV",
+          "prestige" : "65",
+          "hexColor" : "#CF0A2C",
+          "rival" : "RICE",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2764,17 +2764,17 @@
             "ratTalent" : "49",
             "baselinePrestige" : "25",
             "ratOvr" : "54",
-            "name" : "Ali Beechum",
+            "name" : "Marcus Arroyo",
             "contractYear" : "2"
           },
-          "name" : "Stony Brook",
-          "state" : "New York"
+          "name" : "Nevada Las Vegas",
+          "state" : "Nevada"
         },
         {
-          "abbreviation" : "VILA",
-          "prestige" : "23",
-          "hexColor" : "#D2D4D5",
-          "rival" : "ELO",
+          "abbreviation" : "RICE",
+          "prestige" : "67",
+          "hexColor" : "#00205B",
+          "rival" : "UNLV",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2787,11 +2787,11 @@
             "ratTalent" : "52",
             "baselinePrestige" : "25",
             "ratOvr" : "57",
-            "name" : "Chase Dumpson",
+            "name" : "Mike Bloomgren",
             "contractYear" : "2"
           },
-          "name" : "Villanova",
-          "state" : "Pennsylvania"
+          "name" : "Rice",
+          "state" : "Texas"
         },
         {
           "abbreviation" : "TOW",
