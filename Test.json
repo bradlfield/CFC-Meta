@@ -2419,10 +2419,10 @@
           "state" : "South Carolina"
         },
         {
-          "abbreviation" : "USD",
-          "prestige" : "30",
-          "hexColor" : "#167734",
-          "rival" : "ILST",
+          "abbreviation" : "UK",
+          "prestige" : "72",
+          "hexColor" : "#0033A0",
+          "rival" : "TAMU",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2435,17 +2435,17 @@
             "ratTalent" : "57",
             "baselinePrestige" : "25",
             "ratOvr" : "60",
-            "name" : "Vinnie Difebbo",
+            "name" : "Mark Stoops",
             "contractYear" : "2"
           },
-          "name" : "Univ South Dakota",
-          "state" : "South Dakota"
+          "name" : "Kentucky",
+          "state" : "Kentucky"
         },
         {
-          "abbreviation" : "SDSU",
-          "prestige" : "31",
-          "hexColor" : "#094FA3",
-          "rival" : "NDSU",
+          "abbreviation" : "Texas AM",
+          "prestige" : "82",
+          "hexColor" : "#500000",
+          "rival" : "TAMU",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -2458,11 +2458,11 @@
             "ratTalent" : "54",
             "baselinePrestige" : "29",
             "ratOvr" : "58",
-            "name" : "Doug Kubacki",
+            "name" : "Jimbo Fisher",
             "contractYear" : "2"
           },
-          "name" : "South Dakota State",
-          "state" : "South Dakota"
+          "name" : "Texas AM",
+          "state" : "Texas"
         },
         {
           "abbreviation" : "INST",
