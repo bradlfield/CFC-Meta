@@ -2396,7 +2396,7 @@
           "state" : "Missouri"
         },
         {
-          "abbreviation" : "USCe",
+          "abbreviation" : "USCE",
           "prestige" : "75",
           "hexColor" : "#73000A",
           "rival" : "MIZZ",
@@ -2442,7 +2442,7 @@
           "state" : "Kentucky"
         },
         {
-          "abbreviation" : "Texas AM",
+          "abbreviation" : "TAMU",
           "prestige" : "82",
           "hexColor" : "#500000",
           "rival" : "UK",
@@ -2461,7 +2461,7 @@
             "name" : "Jimbo Fisher",
             "contractYear" : "2"
           },
-          "name" : "Texas AM",
+          "name" : "Texas A&M",
           "state" : "Texas"
         },
         {
@@ -2603,9 +2603,9 @@
           "state" : "Utah"
         }
       ],
-      "confFullName" : "Middle USA",
-      "confPrestige" : "65",
-      "confName" : "MUSA"
+      "confFullName" : "Unified American Conference",
+      "confPrestige" : "75",
+      "confName" : "UAC"
     },
     {
       "confTeams" : [
