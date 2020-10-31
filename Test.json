@@ -1847,7 +1847,7 @@
         },
         {
           "abbreviation" : "TSU",
-          "prestige" : "43",
+          "prestige" : "50",
           "hexColor" : "#8D1102",
           "rival" : "ARL",
           "headCoach" : {
@@ -1870,7 +1870,7 @@
         },
         {
           "abbreviation" : "GSU",
-          "prestige" : "44",
+          "prestige" : "54",
           "hexColor" : "#0C207A",
           "rival" : "CCU",
           "headCoach" : {
@@ -2084,7 +2084,7 @@
         },
         {
           "abbreviation" : "MTSU",
-          "prestige" : "38",
+          "prestige" : "50",
           "hexColor" : "#43A7F0",
           "rival" : "UAB",
           "headCoach" : {
@@ -2107,7 +2107,7 @@
         },
         {
           "abbreviation" : "ODU",
-          "prestige" : "37",
+          "prestige" : "45",
           "hexColor" : "#002A97",
           "rival" : "PRO",
           "headCoach" : {
@@ -2489,7 +2489,7 @@
         },
         {
           "abbreviation" : "GT",
-          "prestige" : "65",
+          "prestige" : "70",
           "hexColor" : "#B3A369",
           "rival" : "DUKE",
           "headCoach" : {
@@ -2512,7 +2512,7 @@
         },
         {
           "abbreviation" : "LOUI",
-          "prestige" : "65",
+          "prestige" : "73",
           "hexColor" : "#AD0000",
           "rival" : "UNC",
           "headCoach" : {
@@ -2535,7 +2535,7 @@
         },
         {
           "abbreviation" : "UNC",
-          "prestige" : "73",
+          "prestige" : "78",
           "hexColor" : "#7BAFD4",
           "rival" : "LOUI",
           "headCoach" : {
@@ -2581,7 +2581,7 @@
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "70",
+          "prestige" : "75",
           "hexColor" : "#002E5D",
           "rival" : "WF",
           "headCoach" : {
@@ -2657,7 +2657,7 @@
         },
         {
           "abbreviation" : "MARY",
-          "prestige" : "67",
+          "prestige" : "70",
           "hexColor" : "#E03A3E",
           "rival" : "RUTG",
           "headCoach" : {
